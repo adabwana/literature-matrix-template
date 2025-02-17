@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Input file
-INPUT="IEEE - Time Series Crime Predictions.md"
+INPUT="literature_matrix.md"
 
 # Output file (replacing .md with .pdf)
 OUTPUT="${INPUT%.md}.pdf"

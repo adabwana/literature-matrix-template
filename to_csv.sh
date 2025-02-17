@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INPUT="IEEE - Time Series Crime Predictions.md"
+INPUT="literature_matrix.md"
 OUTPUT="${INPUT%.md}.csv"
 
 perl -CSDA -ne '
