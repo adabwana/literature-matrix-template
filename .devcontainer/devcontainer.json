@@ -1,5 +1,5 @@
 {
-"name": "Denver Presentation Dev",
+"name": "Literature Review Dev",
     // Build configuration
     "build": {
         "dockerfile": "Dockerfile"
@@ -33,7 +33,7 @@
         "gpu": "optional"
     },
         // Workspace configuration
-    "workspaceFolder": "/workspaces/denver-presentation",
-    "workspaceMount": "source=${localWorkspaceFolder},target=/workspaces/denver-presentation,type=bind,consistency=cached"
+    "workspaceFolder": "/workspaces/literature-review",
+    "workspaceMount": "source=${localWorkspaceFolder},target=/workspaces/literature-review,type=bind,consistency=cached"
 
 }
